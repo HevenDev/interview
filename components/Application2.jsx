@@ -58,7 +58,7 @@ const Application2 = () => {
                             <p className="mb-2">Congratulations! You are a <b>Re-upload document needed</b>. Error occured in <b>Scholarship program 2024</b> with some documents</p>
                             <span className="text-zinc-700">2h ago</span>
                             <div className="">
-                            <button className="px-2 py-1 border border-[#4b7600] bg-[#f6f8f2] text-[#4b7600] text-xs border-1 mt-2 rounded-md">See Details</button>
+                            <button className="px-2 py-1 border border-[#4b7600] bg-[#f6f8f2] text-[#4b7600] text-xs border-1 mt-2 font-medium rounded-md">See Details</button>
                             </div>
                         </div>
                     </div>
