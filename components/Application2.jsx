@@ -26,11 +26,24 @@ const Application2 = () => {
                         <div>
                             <div className="w-8 h-8 relative rounded-full flex items-center justify-center bg-[#eef7ed]">
                                 <LuTextSearch />
-                                <span className="text-xs font-semibold absolute top-0.5 right-0.5 border border-white bg-red-500 text-white rounded-full p-0.75"></span>
+                                <span className="text-xs font-semibold absolute bottom-0.5 right-0.5 border border-white bg-red-500 text-white rounded-full p-0.75"></span>
                             </div>
                         </div>
                         <div className="text-xs">
                             <p className="mb-2">Congratulations! You are a <b>winner of a Winter Scholarship program 2024</b>!</p>
+                            <span className="text-zinc-700">2h ago</span>
+                        </div>
+                    </div>
+
+                    <div className="flex gap-3 items-start">
+                        <div>
+                            <div className="w-8 h-8 relative rounded-full flex items-center justify-center bg-[#eef7ed]">
+                                <LuTextSearch />
+                                <span className="text-xs font-semibold absolute bottom-0.5 right-0.5 border border-white bg-red-500 text-white rounded-full p-0.75"></span>
+                            </div>
+                        </div>
+                        <div className="text-xs">
+                            <p className="mb-2">Your application for<b>MicroweWORKS Summer Scholarship is under review</b></p>
                             <span className="text-zinc-700">2h ago</span>
                         </div>
                     </div>
