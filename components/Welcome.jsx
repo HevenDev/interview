@@ -2,7 +2,7 @@ const Welcome = () => {
     return (
             <>
             <div className="mt-[72px] bg-[#edf1e5] py-4 px-4 sm:px-6 md:px-8 lg:px-16 text-black">
-                <div className="flex justify-between items-center flex-wrap">
+                <div className="flex justify-between items-center gap-3 flex-wrap">
                     <div className="leading-wide">
                         <h1 className="font-semibold text-zinc-900 text-xl md:text-2xl lg:text-2xl">Welcome, Barbara!</h1>
                         <p className="font-lighter text-zinc-900 text-sm">Check all updates about application here</p>
